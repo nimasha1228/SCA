@@ -35,6 +35,7 @@ pip install -r requirements.txt
 ```
 python train.py -conf config.json -out_path ./runs
 ```
+- runs and data directories will be created automatically.
 - Check the runs directory to find plots, pt files and csv files.
 - Use config.json to change the settings
 - Use following commad to evaluate the model
