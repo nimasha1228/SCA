@@ -6,7 +6,7 @@ The credit assignment problem is that a network should assign credit or blame fo
 The implementation of this project is based on [this](https://proceedings.neurips.cc/paper/2021/file/fe1f9c70bdf347497e1a01b6c486bdb9-Paper.pdf) paper. 
 ## Directory Structure
 
-![Folder-Structure](/folder-structure.png)
+![Folder-Structure](/structure.png)
 
 # How to use
 
