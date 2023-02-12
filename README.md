@@ -1,9 +1,3 @@
-## Introduction
-
-The credit assignment problem is that a network should assign credit or blame for its behaviours according to the contribution to the network. In neural networks, structural credit assignment (SCA) refers to the problem of determining which neurons or specific parts of the network are responsible for a certain output or behaviour of its performance. A widely used solution for SCA is Backpropagation. However, Reinforcement Learning also can be used to address this problem. 
-The implementation of this project is based on [this](https://proceedings.neurips.cc/paper/2021/file/fe1f9c70bdf347497e1a01b6c486bdb9-Paper.pdf) paper. 
-## Directory Structure
-
 ![Folder-Structure](/structure.png)
 
 # How to use
